@@ -24,7 +24,7 @@ text-decoration: none;
   color: white;
 }
 .hero_section {
-  background-image: url(images/1.webp);
+  background-image: url(1.webp);
   min-height: 1vw;
   background-position: center;
   background-size: cover;
